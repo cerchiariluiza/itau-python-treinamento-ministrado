@@ -1,0 +1,24 @@
+{
+	"clients": [ 
+        {
+            "porte": "medio",
+            "redimentoPercent": "25",
+            "tipos": ["alimenticio", "saude", "bem estar"],
+            "dadosCliente": {
+                "name": "Julia LTDA",
+                "phone": "117777-2347",
+                "email": "email@email.com"
+            }
+        },
+		{
+            "porte": "alto",
+            "redimentoPercent": "40",
+            "tipos": ["eletrica", "energia", "tecnologia"],
+            "dadosCliente": {
+                "name": "Energy LTDA",
+                "phone": "117797-2347",
+                "email": "email@email.com"
+            }
+        }
+	]
+}
